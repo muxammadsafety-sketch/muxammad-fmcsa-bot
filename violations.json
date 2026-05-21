@@ -1,0 +1,281 @@
+{
+  "390.17DT": {
+    "description": "Operating a CMV while texting",
+    "severity": 10,
+    "basic": "Unsafe Driving",
+    "group": "Texting"
+  },
+
+  "390.33-XS": {
+    "description": "Passenger vehicle seating capacity violation",
+    "severity": 1,
+    "basic": "Unsafe Driving",
+    "group": "Other Driver Violations"
+  },
+
+  "392.2C": {
+    "description": "Failure to obey traffic control device",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.2DH": {
+    "description": "Headlamps - failing to dim when required",
+    "severity": 3,
+    "basic": "Unsafe Driving",
+    "group": "Misc Violations"
+  },
+
+  "392.2FC": {
+    "description": "Following too close",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.2-INAT": {
+    "description": "Inattentive Driving",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.2LC": {
+    "description": "Improper lane change",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.2LV": {
+    "description": "Lane Restriction violation",
+    "severity": 3,
+    "basic": "Unsafe Driving",
+    "group": "Misc Violations"
+  },
+
+  "392.2-ML": {
+    "description": "Failure to Maintain Lane",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.2P": {
+    "description": "Improper passing",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.2PK": {
+    "description": "Unlawfully parking and/or leaving vehicle in roadway",
+    "severity": 1,
+    "basic": "Unsafe Driving",
+    "group": "Other Driver Violations"
+  },
+
+  "392.2R": {
+    "description": "Reckless driving",
+    "severity": 10,
+    "basic": "Unsafe Driving",
+    "group": "Reckless Driving"
+  },
+
+  "392.2RR": {
+    "description": "Railroad Grade Crossing violation",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.2-SLLS2": {
+    "description": "Speeding 6-10 mph over limit",
+    "severity": 4,
+    "basic": "Unsafe Driving",
+    "group": "Speeding"
+  },
+
+  "392.2-SLLS3": {
+    "description": "Speeding 11-14 mph over limit",
+    "severity": 7,
+    "basic": "Unsafe Driving",
+    "group": "Speeding"
+  },
+
+  "392.2-SLLS4": {
+    "description": "Speeding 15+ mph over limit",
+    "severity": 10,
+    "basic": "Unsafe Driving",
+    "group": "Speeding"
+  },
+
+  "392.2-SLLSWZ": {
+    "description": "Speeding in work/construction zone",
+    "severity": 10,
+    "basic": "Unsafe Driving",
+    "group": "Speeding"
+  },
+
+  "392.2-SLLT": {
+    "description": "Operating a CMV while texting",
+    "severity": 10,
+    "basic": "Unsafe Driving",
+    "group": "Texting"
+  },
+
+  "392.2T": {
+    "description": "Improper turns",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.2Y": {
+    "description": "Failure to yield right of way",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.6": {
+    "description": "Scheduling a run requiring speeding",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Speeding Related"
+  },
+
+  "392.10(a)(1)": {
+    "description": "Failure to stop at railroad crossing - passengers",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.10(a)(2)": {
+    "description": "Failure to stop at railroad crossing - chlorine division",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.10(a)(3)": {
+    "description": "Failure to stop at railroad crossing - HM placards",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.10(a)(4)": {
+    "description": "Failure to stop at railroad crossing - HM cargo tank",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.11": {
+    "description": "Commercial vehicle failing to slow down approaching railroad crossing",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.14": {
+    "description": "Failed to use caution for hazardous condition",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Dangerous Driving"
+  },
+
+  "392.16": {
+    "description": "Failing to use seat belt while operating a CMV",
+    "severity": 7,
+    "basic": "Unsafe Driving",
+    "group": "Seat Belt"
+  },
+
+  "392.16B": {
+    "description": "Passengers not properly restrained",
+    "severity": 7,
+    "basic": "Unsafe Driving",
+    "group": "Seat Belt"
+  },
+
+  "392.22(a)": {
+    "description": "Failing to use hazard warning flashers",
+    "severity": 1,
+    "basic": "Unsafe Driving",
+    "group": "Other Driver Violations"
+  },
+
+  "392.60(a)": {
+    "description": "Unauthorized passenger on board CMV",
+    "severity": 1,
+    "basic": "Unsafe Driving",
+    "group": "Other Driver Violations"
+  },
+
+  "392.62": {
+    "description": "Unsafe bus operations",
+    "severity": 1,
+    "basic": "Unsafe Driving",
+    "group": "Other Driver Violations"
+  },
+
+  "392.62(a)": {
+    "description": "Standees not behind white line on bus",
+    "severity": 1,
+    "basic": "Unsafe Driving",
+    "group": "Other Driver Violations"
+  },
+
+  "392.71(a)": {
+    "description": "Using or equipping CMV with radar detector",
+    "severity": 5,
+    "basic": "Unsafe Driving",
+    "group": "Speeding Related"
+  },
+
+  "392.80(a)": {
+    "description": "Driving a CMV while texting",
+    "severity": 10,
+    "basic": "Unsafe Driving",
+    "group": "Texting"
+  },
+
+  "392.82(a)(1)": {
+    "description": "Using a hand-held mobile telephone while operating a CMV",
+    "severity": 10,
+    "basic": "Unsafe Driving",
+    "group": "Phone Call"
+  },
+
+  "392.82(a)(2)": {
+    "description": "Requiring driver to use hand-held mobile telephone",
+    "severity": 10,
+    "basic": "Unsafe Driving",
+    "group": "Phone Call"
+  },
+
+  "397.3": {
+    "description": "State/local laws ordinances regulations",
+    "severity": 1,
+    "basic": "Unsafe Driving",
+    "group": "HM Related"
+  },
+
+  "397.13": {
+    "description": "Smoking within 25 ft of HM vehicle",
+    "severity": 1,
+    "basic": "Unsafe Driving",
+    "group": "HM Related"
+  },
+
+  "398.4": {
+    "description": "Transportation of Migrant Workers violation",
+    "severity": 1,
+    "basic": "Unsafe Driving",
+    "group": "Other Driver Violations"
+  }
+}
